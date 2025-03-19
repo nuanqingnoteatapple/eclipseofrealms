@@ -1,7 +1,0 @@
-{
-  "parent": "spartanweaponry:item/base/glaive_blocking",
-  "textures": {
-    "coating": "spartanweaponry:item/coating/glaive",
-    "layer0": "spartanweaponry:item/diamond_glaive"
-  }
-}
