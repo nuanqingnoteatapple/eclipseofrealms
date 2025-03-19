@@ -1,0 +1,7 @@
+{
+  "parent": "spartanweaponry:item/base/quarterstaff_throwing",
+  "textures": {
+    "coating": "spartanweaponry:item/coating/quarterstaff",
+    "layer0": "spartanweaponry:item/diamond_quarterstaff"
+  }
+}

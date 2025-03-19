@@ -1,0 +1,7 @@
+{
+  "parent": "spartanweaponry:item/base/greatsword_throwing",
+  "textures": {
+    "coating": "spartanweaponry:item/coating/greatsword",
+    "layer0": "spartanweaponry:item/diamond_greatsword"
+  }
+}

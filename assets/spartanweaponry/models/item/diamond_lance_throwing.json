@@ -1,0 +1,7 @@
+{
+  "parent": "spartanweaponry:item/base/lance_throwing",
+  "textures": {
+    "coating": "spartanweaponry:item/coating/lance",
+    "layer0": "spartanweaponry:item/diamond_lance"
+  }
+}
